@@ -1,2 +1,2 @@
 # TP1-TaxiApp-Java
-Programa feito em java que simula um aplicativo de Taxi.
+Criação e implementação de um simulador de aplicativo de táxi feito na linguagem de programação Java na disciplina de Técnicas de Programação 1 na Universidade de Brasília (UnB), possuindo conceitos de orientação a objetos com interface gráfica para desktop.
